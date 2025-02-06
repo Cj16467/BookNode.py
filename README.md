@@ -23,10 +23,30 @@ Motion Man's Library is a Python based application designed to manage the day to
 3. Display all transactions.
 4. Reverse the list of transactions to show the borrowing history in reverse chronological order.
 
-##Useage 
+*Useage* 
 
 When you first start up the program, you will be presented with a menu that allows you to manage books, users, and transactions. 
 
-##Menu
+*Menu*
 
 Welcome to Motion Man's Library
+1. Manage Books
+   1.1 Add a book
+   1.2 Remove a book
+   1.3 Search a Book
+2. Manage users
+   2.1 Add a user
+   2.2 Deactiveate a user
+   2.3 Search a Users
+   2.4 Display users
+3. Manage Transactions
+   3.1 Record a transaction
+   3.2 Remove a transaction
+   3.3 Display transaction
+   3.4 Reverse transaction
+4. Exit
+Enter your choice:
+    
+   
+
+   
