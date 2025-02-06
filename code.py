@@ -177,7 +177,7 @@ def main():
 
     while True:
         # Display the main menu for the Smart Library System
-        print("\nWelcome to the Smart Library System!")
+        print("\nWelcome to Motion Man's library!")
         print("1. Manage Books")
         print("   1.1 Add a Book")
         print("   1.2 Remove a Book")
