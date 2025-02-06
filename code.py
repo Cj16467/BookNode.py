@@ -255,28 +255,28 @@ def main():
             book_id = input("Enter book ID: ")
             borrow_date = input("Enter borrow date: ")
             transaction_list.record_transaction(transaction_id, user_id, book_id, borrow_date)
-            print("Transaction recorded successfully!")
+            print("Transaction recorded successfully cuhh!")
         elif choice == "3.2":
             # Remove a transaction by ID
             transaction_id = input("Enter transaction ID to remove: ")
             if transaction_list.remove_transaction(transaction_id):
-                print("Transaction removed successfully!")
+                print("Transaction has been removed successfully!")
             else:
-                print("Transaction not found!")
+                print("Transaction not found cuhh!")
         elif choice == "3.3":
             # Display all transactions
             transaction_list.display_transactions()
         elif choice == "3.4":
             # Reverse the list of transactions
             transaction_list.reverse_transactions()
-            print("Transactions reversed successfully!")
+            print("Transactions has been reversed successfully!")
         elif choice == "4":
             # Exit the program
-            print("Exiting Smart Library System. Goodbye!")
+            print("Exiting Smart Library System. Goodbye Motion Family!")
             break
         else:
             # Handle invalid menu choices
-            print("Invalid choice! Please enter a valid option.")
+            print("Invalid choice! Please enter a valid option lil bro.")
 
 
 if __name__ == "__main__":
